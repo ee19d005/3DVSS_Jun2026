@@ -25,3 +25,12 @@ Image Source: [https://www.researchgate.net/profile/Dan-Casas-2/publication/3344
 
 ##### Overview:
 This Colab notebook demonstrates how to load, manipulate, visualize, and animate the Mano hand model using Python libraries. It covers adjusting body shape and pose parameters, and generating interactive 3D animations from real pose data.
+
+##### Acknowledgements
+This repository was developed as part of the 3D Vision Summer School (3DVSS), June 2026 technical talk and live demonstration session for the participants.
+I gratefully acknowledge the contributions of the following individuals for their support in preparing the materials:
+Meghana Shankar
+Akanxit Upadhya
+Akshay K
+Their efforts in developing, testing, and organizing the course content have been invaluable to the success of this tutorial.
+
