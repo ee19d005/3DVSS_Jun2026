@@ -4,7 +4,7 @@
 
 
 ### Project Title: SMPLX Model Visualization and Animation
-https://github.com/Meghnashankr23/3DVSS_June2026/blob/main/Articulated_Human_body/Articulated_Human_body.ipynb
+https://github.com/ee19d005/3DVSS_Jun2026/blob/main/Articulated_Human_body/Articulated_Human_body.ipynb
 <img width="1013" height="565" alt="image" src="https://github.com/user-attachments/assets/d12ca9df-1112-444f-b2a9-7a909df2b529" />
 Image Source: https://github.com/facebookresearch/frankmocap/issues/91
 ### Overview
